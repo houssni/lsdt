@@ -1,2 +1,5 @@
 # lsdt
-La salle du temps site collaboratif
+La salle du temps application collaborative 
+- Sport 
+- Maths
+- Musique
